@@ -1,0 +1,28 @@
+portfolio/
+├── index.html              ← home page (must stay at the root so hosting finds it)
+├── home/
+│   ├── home.css
+│   └── home.js
+├── about/
+│   ├── about.html          ← the longer about page
+│   ├── about.css
+│   └── about.js
+├── projects/
+│   ├── projects.html       ← "explore all my projects"
+│   ├── projects.css
+│   └── projects.js
+├── links/
+│   ├── links.html          ← social media and all your other links
+│   ├── links.css
+│   └── links.js
+├── contact/
+│   ├── contact.html
+│   ├── contact.css
+│   └── contact.js
+├── shared/
+│   ├── base.css            ← colors, fonts, spacing used by every page
+│   ├── nav.js              ← navigation bar, written once
+│   └── footer.js           ← footer, written once
+└── assets/
+    ├── images/
+    └── icons/
