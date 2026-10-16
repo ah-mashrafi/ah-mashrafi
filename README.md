@@ -1,67 +1,163 @@
-<h1 align="center">Hi 👋, I'm Ahsan Mashrafi</h1>
-<h3 align="center">Building things, breaking things, and fixing what I broke</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/ah_mashrafi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:ahmashrafi@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,50:312e81,100:06b6d4&text=A.%20H.%20Mashrafi&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Curious%20mind.%20Builder%20at%20heart.&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="A. H. Mashrafi" />
 
----
+<br/>
 
-### 🚀 About Me
+### Building my corner of the internet. 🌐
 
-- 🔭 I'm currently working on **[project name]**
-- 🌱 I'm currently learning **[technology/skill]**
-- 👯 I'm looking to collaborate on **[type of project]**
-- 💬 Ask me about **[your expertise]**
-- 📫 Reach me at **ahmashrafi@proton.me**
-- ⚡ Fun fact: **I love to code**
+*Learning, experimenting, and turning ideas into reality.*
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<a href="https://ahmashrafi.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-ahmashrafi.com-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/ahmashrafi">
+  <img src="https://img.shields.io/badge/GITHUB-@ahmashrafi-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github,docker,mongodb" />
-</p>
+<br/><br/>
 
-> Swap the icon list above with your actual stack — see [skillicons.dev](https://skillicons.dev) for all available icons.
+[About](#-a-little-about-me) · [Projects](#-things-im-building) · [GitHub Stats](#-the-activity) · [Connect](#-find-me-around-the-internet)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 👋 A little about me
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" />
-</p>
+Hey, I'm **A. H. Mashrafi** — online, you'll usually find me as **`ahmashrafi`**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" />
-</p>
+I'm someone who likes exploring ideas, understanding how things work, and creating things of my own. I'm here to learn by building, improve through experimentation, and share the journey along the way.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=redical&hide_border=true" />
-</p>
+```js
+const mashrafi = {
+  name: "A. H. Mashrafi",
+  username: "ahmashrafi",
+  website: "ahmashrafi.com",
+  interests: ["building", "learning", "creating"],
+  mindset: "Always a work in progress."
+};
+```
+
+I don't believe you need to know everything to start building.
+
+You just need to start.
+
+## ⚡ Things I'm building
+
+I'm interested in projects that make me think, teach me something new, or solve a real problem.
+
+- 🛠️ **Building** — turning ideas into working projects.
+- 🧠 **Learning** — understanding the how and why, not just the what.
+- 🎨 **Creating** — caring about the details and the experience.
+- 🌱 **Growing** — getting a little better with every iteration.
+
+> The goal isn't to look like you've made it.
+> The goal is to keep making things worth sharing.
+
+## 🚀 Things I'm building
+
+This section is for the projects I'm proud of.
+
+<!-- Replace these examples with your actual projects. -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 Project One
+
+A project I'm building, experimenting with, or particularly proud of.
+
+**What it does:** Add a short description of the problem it solves.
+
+**Built with:** `Your stack here`
+
+[Explore project →](https://github.com/ahmashrafi)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Project Two
+
+Another project, experiment, tool, or idea brought to life.
+
+**What it does:** Explain what makes it useful or interesting.
+
+**Built with:** `Your stack here`
+
+[Explore project →](https://github.com/ahmashrafi)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/ahmashrafi?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-27272a?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+</a>
+
+</div>
+
+## 📊 The activity
+
+<div align="center">
+
+<a href="https://github.com/ahmashrafi">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmashrafi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=09090b&title_color=67e8f9&icon_color=a78bfa&text_color=e4e4e7&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/ahmashrafi">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmashrafi&layout=compact&hide_border=true&theme=tokyonight&bg_color=09090b&title_color=67e8f9&text_color=e4e4e7" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ahmashrafi&hide_border=true&background=09090b&ring=a78bfa&fire=67e8f9&currStreakLabel=67e8f9&sideLabels=e4e4e7&dates=71717a&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" width="70%"/>
+
+</div>
+
+<sub>Stats are generated by external services. They may take time to update or be temporarily unavailable.</sub>
+
+## 🌐 Find me around the internet
+
+<div align="center">
+
+<a href="https://ahmashrafi.com">
+  <img src="https://img.shields.io/badge/Website-09090b?style=for-the-badge&logo=googlechrome&logoColor=67e8f9" alt="Website"/>
+</a>
+<a href="https://github.com/ahmashrafi">
+  <img src="https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+</a>
+
+<!-- Add your verified profile links when ready. -->
+<!--
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="YOUR_YOUTUBE_URL">
+  <img src="https://img.shields.io/badge/YouTube-09090b?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
+</a>
+-->
+
+<br/><br/>
+
+*Always open to good ideas, interesting projects, and genuine connections.*
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+### `STILL LEARNING. STILL BUILDING.`
 
----
+*Made with curiosity by A. H. Mashrafi.*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:09090b&height=100&section=footer" width="100%" alt="Footer"/>
 
-<p align="center"><i>Thanks for stopping by! ⭐ from Ahsan Mashrafi</i></p>
+</div>
