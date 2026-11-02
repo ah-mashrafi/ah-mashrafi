@@ -1,114 +1,210 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ahsan Mashrafi – Developer</title>
-  <meta name="description" content="Ahsan Mashrafi is a developer building web apps and AI tools. Open to remote work.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-  <script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta
+        name="description"
+        content="The personal website of Ahsan Mashrafi. Explore my social profiles, developer accounts and contact information."
+    >
+
+    <title>Ahsan Mashrafi</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-  <a class="skip" href="#main">Skip to content</a>
 
-  <header class="nav">
-    <a class="logo" href="index.html">Ahsan Mashrafi</a>
-    <nav id="menu" aria-label="Main">
-      <a href="index.html" aria-current="page">Home</a>
-      <a href="about/about.html">About</a>
-      <a href="projects/projects.html">Projects</a>
-      <a href="links/links.html">Links</a>
-      <a href="contact/contact.html">Contact</a>
-    </nav>
-    <div class="nav-tools">
-      <button id="theme" class="icon-btn" aria-label="Switch color theme">◐</button>
-      <button id="burger" class="icon-btn burger" aria-label="Open menu" aria-expanded="false" aria-controls="menu">☰</button>
-    </div>
-  </header>
+    <!-- Header -->
+    <header>
+        <h1>Ahsan Mashrafi</h1>
 
-  <main id="main">
-    <section class="hero wrap">
-      <div class="hero-text">
-        <p class="badge"><span class="dot"></span>Open to remote work</p>
-        <h1>I build web apps and AI tools, then ship them.</h1>
-        <p class="lead">Hi, I'm Ahsan Mashrafi, a developer who likes turning ideas into working software. Add one sentence here about what you're best at.</p>
-        <div class="actions">
-          <a class="btn primary" href="projects/projects.html">View projects</a>
-          <a class="btn" href="assets/cv.pdf" download>Download CV</a>
-        </div>
-      </div>
-      <dl class="card profile">
-        <div class="avatar" aria-hidden="true">YN</div>
-        <div><dt>Role</dt><dd>Full-stack developer</dd></div>
-        <div><dt>Works with</dt><dd>JavaScript, Python, APIs</dd></div>
-        <div><dt>Location</dt><dd>City, Country</dd></div>
-        <div><dt>Timezone</dt><dd>UTC+0, flexible overlap</dd></div>
-      </dl>
-    </section>
 
-    <section class="wrap about" aria-labelledby="about-h">
-      <h2 id="about-h">About me</h2>
-      <div>
-        <p>Write two or three sentences here: how you got into programming, what you enjoy building, and what kind of team or problem you want to work on next.</p>
-        <p><a class="textlink" href="about/about.html">Read my full story</a></p>
-      </div>
-    </section>
+        <p>
+            Welcome to my personal corner of the internet.<br>
+            Here you can find my socials<br>
+            And projects I am working on. 
+        </p>
+    </header>
 
-    <section class="wrap" aria-labelledby="work-h">
-      <div class="section-head">
-        <h2 id="work-h">Selected projects</h2>
-        <a class="textlink" href="projects/projects.html">Explore my other projects</a>
-      </div>
-      <ul class="projects">
-        <li>
-          <div>
-            <h3><a href="projects/chatbot/index.html">AI chatbot</a></h3>
-            <p>A chatbot built on an API. Describe what it does and who it helps.</p>
-            <p class="tags"><span>JavaScript</span><span>API</span><span>Node</span></p>
-          </div>
-          <p class="proj-links"><a href="projects/chatbot/index.html">Live demo</a><a href="https://github.com/your-username/chatbot">Code</a></p>
-        </li>
-        <li>
-          <div>
-            <h3><a href="projects/project-two/index.html">Project two</a></h3>
-            <p>One line on the problem it solves and what you built.</p>
-            <p class="tags"><span>Python</span><span>Flask</span></p>
-          </div>
-          <p class="proj-links"><a href="projects/project-two/index.html">Live demo</a><a href="https://github.com/your-username/project-two">Code</a></p>
-        </li>
-        <li>
-          <div>
-            <h3><a href="projects/project-three/index.html">Project three</a></h3>
-            <p>One line on the problem it solves and what you built.</p>
-            <p class="tags"><span>HTML</span><span>CSS</span><span>JS</span></p>
-          </div>
-          <p class="proj-links"><a href="projects/project-three/index.html">Live demo</a><a href="https://github.com/your-username/project-three">Code</a></p>
-        </li>
-      </ul>
-    </section>
 
-    <section class="wrap contact" aria-labelledby="contact-h">
-      <h2 id="contact-h">Looking for a remote developer?</h2>
-      <p>The fastest way to reach me is email. I usually reply within a day.</p>
-      <div class="actions">
-        <a class="btn primary" href="mailto:ahmashrafi@proton.me">Mail Me</a>
-        <a class="btn" href="links/links.html">All my links</a>
-      </div>
-    </section>
-  </main>
 
-  <footer class="footer wrap">
-    <p>© <span id="year">2026</span> Ahsan Mashrafi</p>
-    <p class="foot-links">
-      <a href="https://github.com/your-username">GitHub</a>
-      <a href="https://linkedin.com/in/your-username">LinkedIn</a>
-      <a href="mailto:ahmashrafi@proton.me">Email</a>
-    </p>
-  </footer>
+    <!-- Main content -->
+    <main>
 
-  <script src="script.js"></script>
+        <!-- About section -->
+        <section id="about">
+            <h2>About Me</h2>
+
+            <p>
+                Hello! I'm Ahsan Mashrafi.
+                I'm interested in programming, technology,
+                web development, and building useful things.
+            </p>
+
+            <p>
+                This website is my little corner of the internet.
+                Feel free to explore.
+            </p>
+        </section>
+
+
+        <!-- Social media -->
+        <section id="socials">
+            <h2>Find Me Online</h2>
+
+            <ul>
+                <li>
+                    <a href="https://github.com/ah-mashrafi"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        GitHub
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://x.com/ah_mashrafi"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        X
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://www.linkedin.com/in/ah-mashrafi"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        LinkedIn
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://discord.com/users/1538443315824041986"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Discord
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://www.reddit.com/user/ah_mashrafi/"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Reddit
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://bsky.app/profile/ah-mashrafi.bsky.social"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Bluesky
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://www.instagram.com/ah_mashrafi/"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Instagram
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://t.me/ahmashrafi"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Telegram
+                    </a>
+                </li>
+            </ul>
+        </section>
+
+
+        <!-- Developer profiles -->
+        <section id="developer-profiles">
+            <h2>Developer Profiles</h2>
+
+            <ul>
+                <li>
+                    <a href="https://leetcode.com/u/ah-mashrafi/"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        LeetCode
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://stackoverflow.com/users/33088871/ahsan-mashrafi"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Stack Overflow
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://www.kaggle.com/ahmashrafi99"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Kaggle
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://huggingface.co/ah-mashrafi"
+                       class="social-link"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Hugging Face
+                    </a>
+                </li>
+            </ul>
+        </section>
+
+
+        <!-- Contact -->
+        <section id="contact">
+            <h2>Get In Touch</h2>
+
+            <p>
+                Have a question or want to connect?
+                Feel free to contact me.
+            </p>
+
+            <ul>
+                <li>
+                    Email:
+                    <a href="mailto:ahmashrafi@proton.me"
+                       class="social-link">
+                        ahmashrafi@proton.me
+                    </a>
+                </li>
+
+                <li>
+                    Website:
+                    <a href="https://ahmashrafi.com"
+                       class="social-link">
+                        ahmashrafi.com
+                    </a>
+                </li>
+            </ul>
+        </section>
+
+    </main>
+
+
 </body>
 </html>
